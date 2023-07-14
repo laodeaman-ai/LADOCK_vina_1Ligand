@@ -1,7 +1,7 @@
 # LADOCK_vina_1Ligand
 Script untuk automatisasi proses docking banyak ligands menggunakan autodock-vina terhadap satu reseptor.
 
-1. Buatk direktori kerja
+1. Buat direktori kerja
 2. Tempatkan file-file input yang terdiri dari konfigurasi (config.txt), receptor.pdbqt dan ligand-ligand dalam format pdbqt.
 3. Tempatkan file LADOCK_vina2lig.py pada direktori kerja.
 4. Tempatkan file excecutable dari autodock-vina dan autodock-vina_split pada direktori kerja.
